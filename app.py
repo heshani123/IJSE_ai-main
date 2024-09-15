@@ -1,5 +1,5 @@
 # pip install Flask
-
+__build_class__
 # python --version
 
 from flask import Flask
